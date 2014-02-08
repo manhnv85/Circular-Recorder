@@ -1,0 +1,251 @@
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ApplicationIcon.png
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\Background.png
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\CircularRecorderApp.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\CircularRecorderApp.pdb
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\AppManifest.xaml
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\CircularRecorderApp.xap
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\CircularRecorder.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\CircularRecorder.pdb
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\obj\Debug\CircularRecorderApp.csprojResolveAssemblyReference.cache
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\obj\Debug\App.g.i.cs
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\obj\Debug\MainPage.g.i.cs
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\obj\Debug\CircularRecorderApp.g.resources
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\obj\Debug\CircularRecorderApp.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\obj\Debug\CircularRecorderApp.pdb
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\obj\Debug\XapCacheFile.xml
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\obj\Debug\Settings.g.i.cs
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\obj\Debug\LandingPage.g.i.cs
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\obj\Debug\Playback.g.i.cs
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\obj\Debug\SaveRecording.g.i.cs
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\WatermarkedTextBoxControl.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\WatermarkedTextBoxControl.pdb
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ImageTools.Controls.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ImageTools.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ImageTools.Utils.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\PhoneCodeContractsAssemblies.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ImageTools.IO.Png.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ICSharpCode.SharpZLib.Phone.dll
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ImageTools.Controls.pdb
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ImageTools.Controls.xml
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ImageTools.pdb
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ImageTools.xml
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ImageTools.Utils.pdb
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ImageTools.Utils.xml
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\PhoneCodeContractsAssemblies.pdb
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ImageTools.IO.Png.pdb
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ImageTools.IO.Png.xml
+C:\Users\haris.hasan\Documents\Visual Studio 2010\Projects\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ICSharpCode.SharpZLib.Phone.pdb
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\obj\Debug\CircularRecorderApp.csprojResolveAssemblyReference.cache
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\obj\Debug\App.g.i.cs
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\obj\Debug\LandingPage.g.i.cs
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\obj\Debug\MainPage.g.i.cs
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\obj\Debug\Playback.g.i.cs
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\obj\Debug\SaveRecording.g.i.cs
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\obj\Debug\Settings.g.i.cs
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\obj\Debug\CircularRecorderApp.g.resources
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\obj\Debug\CircularRecorderApp.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\obj\Debug\CircularRecorderApp.pdb
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ApplicationIcon.png
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\Background.png
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\CircularRecorderApp.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\CircularRecorderApp.pdb
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\AppManifest.xaml
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\CircularRecorderApp.xap
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\CircularRecorder.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\WatermarkedTextBoxControl.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ImageTools.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ImageTools.Utils.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\PhoneCodeContractsAssemblies.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ImageTools.IO.Png.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ICSharpCode.SharpZLib.Phone.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\WatermarkedTextBoxControl.pdb
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\CircularRecorder.pdb
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ImageTools.Controls.pdb
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ImageTools.Controls.xml
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ImageTools.pdb
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ImageTools.xml
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ImageTools.Utils.pdb
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ImageTools.Utils.xml
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\PhoneCodeContractsAssemblies.pdb
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ImageTools.IO.Png.pdb
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ImageTools.IO.Png.xml
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ICSharpCode.SharpZLib.Phone.pdb
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorderApp\obj\Debug\XapCacheFile.xml
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ApplicationIcon.png
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\Background.png
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\CircularRecorderApp.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\CircularRecorderApp.pdb
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\AppManifest.xaml
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\CircularRecorderApp.xap
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\CircularRecorder.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\UI.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\WatermarkedTextBoxControl.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\CircularRecorder.pdb
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\WatermarkedTextBoxControl.pdb
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\UI.pdb
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\obj\Debug\App.g.i.cs
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\obj\Debug\LandingPage.g.i.cs
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\obj\Debug\MainPage.g.i.cs
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\obj\Debug\Playback.g.i.cs
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\obj\Debug\SaveRecording.g.i.cs
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\obj\Debug\Settings.g.i.cs
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\obj\Debug\AudioLoop.g.i.cs
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\obj\Debug\CircularRecorderApp.g.resources
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\obj\Debug\CircularRecorderApp.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\obj\Debug\CircularRecorderApp.pdb
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorderApp\obj\Debug\XapCacheFile.xml
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ApplicationIcon.png
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\CircularRecorderApp.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\CircularRecorderApp.pdb
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\AppManifest.xaml
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\CircularRecorderApp.xap
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\CircularRecorder.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\Microsoft.Expression.Drawing.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\Microsoft.Live.Controls.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\Microsoft.Live.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\WatermarkedTextBoxControl.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\CircularRecorder.pdb
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\WatermarkedTextBoxControl.pdb
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\Microsoft.Expression.Drawing.xml
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\cs\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\da\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\de\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\el\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\en\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\en-gb\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\es\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\fi\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\fr\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\hu\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\id\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\it\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ja\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ko\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ms\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\nb-no\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\nl\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\pl\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\pt-br\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\pt-pt\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ru\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\sv\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\zh-cn\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\zh-tw\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\obj\Debug\CircularRecorderApp.csprojResolveAssemblyReference.cache
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\obj\Debug\App.g.i.cs
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\obj\Debug\LandingPage.g.i.cs
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\obj\Debug\MainPage.g.i.cs
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\obj\Debug\Playback.g.i.cs
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\obj\Debug\PlaySoundControl.g.i.cs
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\obj\Debug\SaveRecording.g.i.cs
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\obj\Debug\Settings.g.i.cs
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\obj\Debug\AudioLoop.g.i.cs
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\obj\Debug\SignIn.g.i.cs
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\obj\Debug\Upload.g.i.cs
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\obj\Debug\CircularRecorderApp.g.resources
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\obj\Debug\CircularRecorderApp.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\obj\Debug\CircularRecorderApp.pdb
+E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,11 @@
+E:\Personal\Apps\CircularRecorderApp\WatermarkTextBoxControl\Bin\Release\WatermarkedTextBoxControl.dll
+E:\Personal\Apps\CircularRecorderApp\WatermarkTextBoxControl\Bin\Release\WatermarkedTextBoxControl.pdb
+E:\Personal\Apps\CircularRecorderApp\WatermarkTextBoxControl\obj\Release\WatermarkedTextBoxControl.g.resources
+E:\Personal\Apps\CircularRecorderApp\WatermarkTextBoxControl\obj\Release\WatermarkedTextBoxControl.dll
+E:\Personal\Apps\CircularRecorderApp\WatermarkTextBoxControl\obj\Release\WatermarkedTextBoxControl.pdb
+E:\Personal\Apps\CircularRecorderApp - Free\WatermarkTextBoxControl\Bin\Release\WatermarkedTextBoxControl.dll
+E:\Personal\Apps\CircularRecorderApp - Free\WatermarkTextBoxControl\Bin\Release\WatermarkedTextBoxControl.pdb
+E:\Personal\Apps\CircularRecorderApp - Free\WatermarkTextBoxControl\obj\Release\WatermarkedTextBoxControl.g.resources
+E:\Personal\Apps\CircularRecorderApp - Free\WatermarkTextBoxControl\obj\Release\WatermarkedTextBoxControl.dll
+E:\Personal\Apps\CircularRecorderApp - Free\WatermarkTextBoxControl\obj\Release\WatermarkedTextBoxControl.pdb
+C:\Personal\Personal\Apps\Circular Recroder\CircularRecorderApp - Free\WatermarkTextBoxControl\obj\Release\WatermarkedTextBoxControl.pdb

@@ -1,0 +1,43 @@
+C:\Users\haris.hasan\Downloads\Microphone Sample\C#\CircularRecorder\Bin\Debug\CircularRecorder.dll
+C:\Users\haris.hasan\Downloads\Microphone Sample\C#\CircularRecorder\Bin\Debug\CircularRecorder.pdb
+C:\Users\haris.hasan\Downloads\Microphone Sample\C#\CircularRecorder\obj\Debug\CircularRecorder.dll
+C:\Users\haris.hasan\Downloads\Microphone Sample\C#\CircularRecorder\obj\Debug\CircularRecorder.pdb
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorder\Bin\Debug\CircularRecorder.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorder\Bin\Debug\CircularRecorder.pdb
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorder\obj\Debug\CircularRecorder.dll
+C:\Users\haris.hasan\Desktop\New folder\CircularRecorderApp\CircularRecorder\obj\Debug\CircularRecorder.pdb
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorder\Bin\Debug\CircularRecorder.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorder\Bin\Debug\CircularRecorder.pdb
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorder\obj\Debug\CircularRecorder.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\CircularRecorder\obj\Debug\CircularRecorder.pdb
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Debug\CircularRecorder.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Debug\CircularRecorder.pdb
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Debug\Microsoft.Live.Controls.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Debug\Microsoft.Live.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Debug\cs\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Debug\da\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Debug\de\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Debug\el\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Debug\en\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Debug\en-gb\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Debug\es\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Debug\fi\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Debug\fr\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Debug\hu\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Debug\id\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Debug\it\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Debug\ja\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Debug\ko\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Debug\ms\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Debug\nb-no\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Debug\nl\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Debug\pl\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Debug\pt-br\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Debug\pt-pt\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Debug\ru\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Debug\sv\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Debug\zh-cn\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Debug\zh-tw\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\obj\Debug\CircularRecorder.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\obj\Debug\CircularRecorder.pdb

@@ -1,0 +1,22 @@
+C:\Work\Discover\trunk\Source\WP7WatermarkTextBoxSample\WatermarkTextBoxControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\Discover\trunk\Source\WP7WatermarkTextBoxSample\WatermarkTextBoxControl\Bin\Debug\WatermarkedTextBoxControl.dll
+C:\Work\Discover\trunk\Source\WP7WatermarkTextBoxSample\WatermarkTextBoxControl\Bin\Debug\WatermarkedTextBoxControl.pdb
+C:\Work\Discover\trunk\Source\WP7WatermarkTextBoxSample\WatermarkTextBoxControl\obj\Debug\WatermarkedTextBoxControl.g.resources
+C:\Work\Discover\trunk\Source\WP7WatermarkTextBoxSample\WatermarkTextBoxControl\obj\Debug\WatermarkedTextBoxControl.dll
+C:\Work\Discover\trunk\Source\WP7WatermarkTextBoxSample\WatermarkTextBoxControl\obj\Debug\WatermarkedTextBoxControl.pdb
+C:\Downloads\wp7watermarktextboxsample (2)\WP7WatermarkTextBoxSample\WatermarkTextBoxControl\Bin\Debug\WatermarkedTextBoxControl.dll
+C:\Downloads\wp7watermarktextboxsample (2)\WP7WatermarkTextBoxSample\WatermarkTextBoxControl\Bin\Debug\WatermarkedTextBoxControl.pdb
+C:\Downloads\wp7watermarktextboxsample (2)\WP7WatermarkTextBoxSample\WatermarkTextBoxControl\obj\Debug\WatermarkedTextBoxControl.g.resources
+C:\Downloads\wp7watermarktextboxsample (2)\WP7WatermarkTextBoxSample\WatermarkTextBoxControl\obj\Debug\WatermarkedTextBoxControl.dll
+C:\Downloads\wp7watermarktextboxsample (2)\WP7WatermarkTextBoxSample\WatermarkTextBoxControl\obj\Debug\WatermarkedTextBoxControl.pdb
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\WatermarkTextBoxControl\Bin\Debug\WatermarkedTextBoxControl.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\WatermarkTextBoxControl\Bin\Debug\WatermarkedTextBoxControl.pdb
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\WatermarkTextBoxControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\WatermarkTextBoxControl\obj\Debug\WatermarkedTextBoxControl.g.resources
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\WatermarkTextBoxControl\obj\Debug\WatermarkedTextBoxControl.dll
+C:\Users\abdul.rehman\Desktop\CircularRecorderApp\WatermarkTextBoxControl\obj\Debug\WatermarkedTextBoxControl.pdb
+E:\Personal\Apps\CircularRecorderApp\WatermarkTextBoxControl\Bin\Debug\WatermarkedTextBoxControl.dll
+E:\Personal\Apps\CircularRecorderApp\WatermarkTextBoxControl\Bin\Debug\WatermarkedTextBoxControl.pdb
+E:\Personal\Apps\CircularRecorderApp\WatermarkTextBoxControl\obj\Debug\WatermarkedTextBoxControl.g.resources
+E:\Personal\Apps\CircularRecorderApp\WatermarkTextBoxControl\obj\Debug\WatermarkedTextBoxControl.dll
+E:\Personal\Apps\CircularRecorderApp\WatermarkTextBoxControl\obj\Debug\WatermarkedTextBoxControl.pdb

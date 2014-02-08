@@ -1,0 +1,92 @@
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\CircularRecorder.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\CircularRecorder.pdb
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\Microsoft.Live.Controls.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\Microsoft.Live.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\cs\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\da\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\de\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\el\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\en\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\en-gb\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\es\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\fi\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\fr\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\hu\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\id\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\it\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\ja\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\ko\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\ms\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\nb-no\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\nl\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\pl\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\pt-br\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\pt-pt\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\ru\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\sv\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\zh-cn\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\zh-tw\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\obj\Release\CircularRecorder.dll
+E:\Personal\Apps\CircularRecorderApp\CircularRecorder\obj\Release\CircularRecorder.pdb
+Z:\E\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\CircularRecorder.dll
+Z:\E\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\CircularRecorder.pdb
+Z:\E\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\Microsoft.Live.Controls.dll
+Z:\E\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\Microsoft.Live.dll
+Z:\E\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\cs\Microsoft.Live.Controls.resources.dll
+Z:\E\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\da\Microsoft.Live.Controls.resources.dll
+Z:\E\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\de\Microsoft.Live.Controls.resources.dll
+Z:\E\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\el\Microsoft.Live.Controls.resources.dll
+Z:\E\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\en\Microsoft.Live.Controls.resources.dll
+Z:\E\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\en-gb\Microsoft.Live.Controls.resources.dll
+Z:\E\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\es\Microsoft.Live.Controls.resources.dll
+Z:\E\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\fi\Microsoft.Live.Controls.resources.dll
+Z:\E\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\fr\Microsoft.Live.Controls.resources.dll
+Z:\E\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\hu\Microsoft.Live.Controls.resources.dll
+Z:\E\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\id\Microsoft.Live.Controls.resources.dll
+Z:\E\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\it\Microsoft.Live.Controls.resources.dll
+Z:\E\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\ja\Microsoft.Live.Controls.resources.dll
+Z:\E\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\ko\Microsoft.Live.Controls.resources.dll
+Z:\E\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\ms\Microsoft.Live.Controls.resources.dll
+Z:\E\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\nb-no\Microsoft.Live.Controls.resources.dll
+Z:\E\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\nl\Microsoft.Live.Controls.resources.dll
+Z:\E\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\pl\Microsoft.Live.Controls.resources.dll
+Z:\E\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\pt-br\Microsoft.Live.Controls.resources.dll
+Z:\E\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\pt-pt\Microsoft.Live.Controls.resources.dll
+Z:\E\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\ru\Microsoft.Live.Controls.resources.dll
+Z:\E\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\sv\Microsoft.Live.Controls.resources.dll
+Z:\E\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\zh-cn\Microsoft.Live.Controls.resources.dll
+Z:\E\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Release\zh-tw\Microsoft.Live.Controls.resources.dll
+Z:\E\Personal\Apps\CircularRecorderApp\CircularRecorder\obj\Release\CircularRecorder.dll
+Z:\E\Personal\Apps\CircularRecorderApp\CircularRecorder\obj\Release\CircularRecorder.pdb
+E:\Personal\Apps\CircularRecorderApp - Free\CircularRecorder\Bin\Release\CircularRecorder.dll
+E:\Personal\Apps\CircularRecorderApp - Free\CircularRecorder\Bin\Release\CircularRecorder.pdb
+E:\Personal\Apps\CircularRecorderApp - Free\CircularRecorder\Bin\Release\Microsoft.Live.Controls.dll
+E:\Personal\Apps\CircularRecorderApp - Free\CircularRecorder\Bin\Release\Microsoft.Live.dll
+E:\Personal\Apps\CircularRecorderApp - Free\CircularRecorder\Bin\Release\cs\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp - Free\CircularRecorder\Bin\Release\da\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp - Free\CircularRecorder\Bin\Release\de\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp - Free\CircularRecorder\Bin\Release\el\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp - Free\CircularRecorder\Bin\Release\en\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp - Free\CircularRecorder\Bin\Release\en-gb\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp - Free\CircularRecorder\Bin\Release\es\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp - Free\CircularRecorder\Bin\Release\fi\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp - Free\CircularRecorder\Bin\Release\fr\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp - Free\CircularRecorder\Bin\Release\hu\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp - Free\CircularRecorder\Bin\Release\id\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp - Free\CircularRecorder\Bin\Release\it\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp - Free\CircularRecorder\Bin\Release\ja\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp - Free\CircularRecorder\Bin\Release\ko\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp - Free\CircularRecorder\Bin\Release\ms\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp - Free\CircularRecorder\Bin\Release\nb-no\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp - Free\CircularRecorder\Bin\Release\nl\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp - Free\CircularRecorder\Bin\Release\pl\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp - Free\CircularRecorder\Bin\Release\pt-br\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp - Free\CircularRecorder\Bin\Release\pt-pt\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp - Free\CircularRecorder\Bin\Release\ru\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp - Free\CircularRecorder\Bin\Release\sv\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp - Free\CircularRecorder\Bin\Release\zh-cn\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp - Free\CircularRecorder\Bin\Release\zh-tw\Microsoft.Live.Controls.resources.dll
+E:\Personal\Apps\CircularRecorderApp - Free\CircularRecorder\obj\Release\CircularRecorder.csprojResolveAssemblyReference.cache
+E:\Personal\Apps\CircularRecorderApp - Free\CircularRecorder\obj\Release\CircularRecorder.dll
+E:\Personal\Apps\CircularRecorderApp - Free\CircularRecorder\obj\Release\CircularRecorder.pdb
+C:\Personal\Personal\Apps\Circular Recroder\CircularRecorderApp - Free\CircularRecorder\obj\Release\CircularRecorder.pdb

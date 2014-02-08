@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="CircularRecorderApp.AudioLoop"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    d:DesignHeight="293" d:DesignWidth="319" xmlns:es="clr-namespace:Microsoft.Expression.Shapes;assembly=Microsoft.Expression.Drawing">
+    <UserControl.Resources>
+        <Storyboard x:Name="_animation" >
+            <DoubleAnimationUsingKeyFrames  Storyboard.TargetProperty="(Arc.EndAngle)" Storyboard.TargetName="arc_1">
+                <EasingDoubleKeyFrame  KeyTime="0" Value="360"/>
+                <EasingDoubleKeyFrame KeyTime="0:5:0" Value="720"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(Arc.EndAngle)" Storyboard.TargetName="arc_2">
+                <EasingDoubleKeyFrame KeyTime="0:5:0" Value="360"/>
+                <EasingDoubleKeyFrame KeyTime="0:10:0" Value="720"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </UserControl.Resources>
+
+    <Grid x:Name="LayoutRoot" >
+        <Ellipse Fill="#FF19A2DE" Height="250" Width="250"  Name="Backgroundellipse" Stroke="Black" />
+        <es:Arc ArcThickness="1" Width="250" Height="250" ArcThicknessUnit="Percent" EndAngle="360" Fill="Red" Name="arc_1" StartAngle="360" Stretch="None" Stroke="Black" />
+        <es:Arc ArcThickness="1" Width="250" Height="250" ArcThicknessUnit="Percent" EndAngle="360" Fill="DeepSkyBlue" Name="arc_2" StartAngle="360" Stretch="None" Stroke="Black" />
+        <Ellipse Fill="#FF13216C" Height="200" Width="200" Name="FrontEllipse" Stroke="Black" />
+        <TextBlock FontSize="64" HorizontalAlignment="Center"  Name="TimeTextBlock" Text="0" VerticalAlignment="Center" />
+    </Grid>
+</UserControl>

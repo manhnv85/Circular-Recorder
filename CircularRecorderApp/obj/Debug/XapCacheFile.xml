@@ -1,0 +1,35 @@
+﻿<xapCache source="E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\CircularRecorderApp.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="7/5/2013 6:52:53 PM">
+  <file source="E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="7/5/2013 3:55:11 PM" />
+  <file source="E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="7/3/2013 12:45:36 AM" />
+  <file source="E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\ApplicationIcon_62_62.png" archivePath="ApplicationIcon_62_62.png" lastWriteTime="7/3/2013 12:53:02 AM" />
+  <file source="E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\obj\Debug\CircularRecorderApp.dll" archivePath="CircularRecorderApp.dll" lastWriteTime="7/5/2013 6:52:52 PM" />
+  <file source="E:\Personal\Apps\CircularRecorderApp\CircularRecorder\Bin\Debug\CircularRecorder.dll" archivePath="CircularRecorder.dll" lastWriteTime="7/5/2013 6:19:28 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v7.1\Libraries\Microsoft.Expression.Drawing.dll" archivePath="Microsoft.Expression.Drawing.dll" lastWriteTime="8/17/2011 1:48:22 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Live\v5.4\Windows Phone 7.1\References\Microsoft.Live.Controls.dll" archivePath="Microsoft.Live.Controls.dll" lastWriteTime="6/20/2013 11:14:46 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Live\v5.4\Windows Phone 7.1\References\Microsoft.Live.dll" archivePath="Microsoft.Live.dll" lastWriteTime="6/20/2013 11:12:16 AM" />
+  <file source="E:\Personal\Apps\CircularRecorderApp\packages\WPtoolkit.4.2013.06.11\lib\sl4-windowsphone71\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="6/29/2013 12:20:20 AM" />
+  <file source="E:\Personal\Apps\CircularRecorderApp\WatermarkTextBoxControl\Bin\Debug\WatermarkedTextBoxControl.dll" archivePath="WatermarkedTextBoxControl.dll" lastWriteTime="7/5/2013 6:19:29 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="9/15/2011 3:36:26 PM" />
+  <file source="E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Images\Mic_Dark.png" archivePath="Images\Mic_Dark.png" lastWriteTime="6/29/2013 6:20:26 PM" />
+  <file source="E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Images\Mic_Light.png" archivePath="Images\Mic_Light.png" lastWriteTime="6/29/2013 6:25:10 PM" />
+  <file source="E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Images\Pause_Dark.png" archivePath="Images\Pause_Dark.png" lastWriteTime="6/28/2013 10:20:04 PM" />
+  <file source="E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Images\Pause_Light.png" archivePath="Images\Pause_Light.png" lastWriteTime="6/28/2013 11:16:39 PM" />
+  <file source="E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Images\Play_Dark.png" archivePath="Images\Play_Dark.png" lastWriteTime="6/28/2013 10:20:04 PM" />
+  <file source="E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Images\Play_Light.png" archivePath="Images\Play_Light.png" lastWriteTime="6/28/2013 11:16:39 PM" />
+  <file source="E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Images\Press_To_Record_Dark.png" archivePath="Images\Press_To_Record_Dark.png" lastWriteTime="7/5/2013 6:47:55 PM" />
+  <file source="E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Images\Press_To_Record_Light.png" archivePath="Images\Press_To_Record_Light.png" lastWriteTime="7/5/2013 6:47:55 PM" />
+  <file source="E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Images\Record_Dark.png" archivePath="Images\Record_Dark.png" lastWriteTime="6/28/2013 10:20:04 PM" />
+  <file source="E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Images\Record_Light.png" archivePath="Images\Record_Light.png" lastWriteTime="7/1/2013 10:36:56 PM" />
+  <file source="E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Images\Save_Dark.png" archivePath="Images\Save_Dark.png" lastWriteTime="6/29/2013 12:44:34 AM" />
+  <file source="E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Images\Save_Light.png" archivePath="Images\Save_Light.png" lastWriteTime="6/29/2013 12:44:34 AM" />
+  <file source="E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Images\SkyDrive_Dark.png" archivePath="Images\SkyDrive_Dark.png" lastWriteTime="7/3/2013 8:23:10 PM" />
+  <file source="E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Images\SkyDrive_Light.png" archivePath="Images\SkyDrive_Light.png" lastWriteTime="7/3/2013 8:20:45 PM" />
+  <file source="E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Images\Stop_Dark.png" archivePath="Images\Stop_Dark.png" lastWriteTime="7/2/2013 3:14:49 PM" />
+  <file source="E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Images\Stop_Light.png" archivePath="Images\Stop_Light.png" lastWriteTime="7/2/2013 3:14:50 PM" />
+  <file source="E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Images\Upload_Dark.png" archivePath="Images\Upload_Dark.png" lastWriteTime="7/3/2013 8:34:44 PM" />
+  <file source="E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Images\Upload_Light.png" archivePath="Images\Upload_Light.png" lastWriteTime="7/3/2013 8:34:44 PM" />
+  <file source="E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\README_FIRST.txt" archivePath="README_FIRST.txt" lastWriteTime="6/29/2013 12:20:21 AM" />
+  <file source="E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="7/3/2013 12:25:12 AM" />
+  <file source="E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="7/5/2013 6:19:32 PM" />
+  <file source="E:\Personal\Apps\CircularRecorderApp\CircularRecorderApp\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="7/3/2013 12:45:36 AM" />
+</xapCache>
